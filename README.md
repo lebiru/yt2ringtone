@@ -1,5 +1,7 @@
 # 🎶 YouTube to iPhone Ringtone Converter 📱
 
+![logo](./images/logo.png "yt2ringtone logo")
+
 This script allows you to convert any YouTube video into an iPhone ringtone format (`.m4r`). It's easy to use and requires only a simple Python setup. Follow the steps below to get started!
 
 ## Prerequisites
